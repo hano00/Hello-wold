@@ -1,2 +1,3 @@
 # Hello-wold
-Teste de criaçãovde repositório do Github
+Teste de criação de repositório do Github
+Não quero realmente falar sobre mim para o Github
